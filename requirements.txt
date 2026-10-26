@@ -1,9 +1,3 @@
-app.py
-churn.csv
-customer_churn.py
-requirements.txt
-README.md
-pandas
 streamlit
 pandas
 scikit-learn
